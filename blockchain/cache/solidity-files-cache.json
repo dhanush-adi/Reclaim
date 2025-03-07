@@ -1,0 +1,110 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Nithesh\\Desktop\\lostandfound\\blockchain\\contracts\\BountyEscrow.sol": {
+      "lastModificationDate": 1741244258923,
+      "contentHash": "8eded8fbf24b7afc3246eece91c78936",
+      "sourceName": "contracts/BountyEscrow.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "BountyEscrow"
+      ]
+    },
+    "C:\\Users\\Nithesh\\Desktop\\lostandfound\\blockchain\\contracts\\DisputeResolution.sol": {
+      "lastModificationDate": 1741244258935,
+      "contentHash": "2b21ee24ec9c2304c3bc3b935a26db9d",
+      "sourceName": "contracts/DisputeResolution.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "DisputeResolution"
+      ]
+    },
+    "C:\\Users\\Nithesh\\Desktop\\lostandfound\\blockchain\\contracts\\LostAndFound.sol": {
+      "lastModificationDate": 1741263491210,
+      "contentHash": "8128ea8e38a6aaf030fece9e5a378316",
+      "sourceName": "contracts/LostAndFound.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "LostAndFound"
+      ]
+    }
+  }
+}
